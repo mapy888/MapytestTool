@@ -1,0 +1,2 @@
+# MapytestTool
+cocopods SDK test
